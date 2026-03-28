@@ -19,3 +19,13 @@ As someone who has only recently started diving into the world of electronics th
 - Raspberry Pi B/B+ 3.5 inch Touch Screen
 - Black 3x4 Keypad
 - Joystick controller
+
+## Bill of Materials (BOM)
+
+| Part Number | Description | Qty | Reference Designator |
+| :--- | :--- | :--- | :--- |
+| MCU-101 | Microcontroller (ESP32) | 1 | U1 |
+| SEN-99 | Temperature Sensor | 2 | S1, S2 |
+| R-10K | 10k Ohm Resistor | 5 | R1-R5 |
+| PCB-V1 | Main PCB Board | 1 | - |
+
