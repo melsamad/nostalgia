@@ -22,10 +22,7 @@ As someone who has only recently started diving into the world of electronics th
 
 ## Bill of Materials (BOM)
 
-| Part Number | Description | Qty | Reference Designator |
+| Component | Type | Qty | Supplier |
 | :--- | :--- | :--- | :--- |
-| MCU-101 | Microcontroller (ESP32) | 1 | U1 |
-| SEN-99 | Temperature Sensor | 2 | S1, S2 |
-| R-10K | 10k Ohm Resistor | 5 | R1-R5 |
-| PCB-V1 | Main PCB Board | 1 | - |
+| Microcontroller | Raspberry Pi Zero | 1 | Electroslab | 
 
