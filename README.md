@@ -1,5 +1,6 @@
 # nostalgia
 A computer inside an old jewelry box
+<img width="1584" height="396" alt="NOSTALGIA" src="https://github.com/user-attachments/assets/296dcdde-fa04-4537-a16d-d391d23e670f" />
 
 ## Inspiration
 Throwing away your old jewelry box is one thing, throwing a computer inside of it is another. "Nostalgia" is a mini-computer powered by a Raspberry Pi Zero Board, placed inside a vintage jewelry box for aesthetic purposes. This concept was inspired by @ubeboobey's boards on TikTok, project N.O.M.A.D and the growing trend of cyberdesks in general, which has really caught my attention as someone who loves to blend technology with creative artistry. Making an electronics project function is cool, making it function AND look cute is even cooler. 
