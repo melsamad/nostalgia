@@ -25,4 +25,7 @@ As someone who has only recently started diving into the world of electronics th
 | Component | Type | Qty | Supplier |
 | :--- | :--- | :--- | :--- |
 | Microcontroller | Raspberry Pi Zero | 1 | Electroslab | 
+| Keyboard | 3x4 Keypad | 1 | Electroslab |
+| Joystick Module | KY-023 Dual-Axis Joystick Module | 1 | Electroslab |
+| Screen Module | Raspberry Pi B/B+ 3.5 inch Touch Screen | 1 | Electroslab
 
