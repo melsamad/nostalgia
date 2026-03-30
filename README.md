@@ -20,6 +20,14 @@ As someone who has only recently started diving into the world of electronics th
 - Black 3x4 Keypad
 - Joystick controller
 
+## Personal Computer Survival System Features 
+- A collection of PDFs on plant types and survival in wildlife
+- Donwloaded Youtube videos covering foundational mathematics, physics and chemistry
+- A set of notes containing my favorite recipes
+- A folder containing full guides in order to maintain my software and hardware skills
+- Map of the world + Night Sky Map
+- A small gallery of photos containing personal details and global photographs 
+
 ## Bill of Materials (BOM)
 
 | Component | Type | Qty | Supplier |
