@@ -1,5 +1,5 @@
 # nostalgia
-A computer inside an old jewelry box
+A computer inside an old box I found in my drawer
 
 <img width="1584" height="396" alt="NOSTALGIA" src="https://github.com/user-attachments/assets/296dcdde-fa04-4537-a16d-d391d23e670f" />
 
